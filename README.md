@@ -1,4 +1,4 @@
-# MHIU 
+# Multiple Human Interaction Understanding
 This is the repository for the dataset "Multiple Human Interaction Understanding (MHIU)."
 
 # Introduction
