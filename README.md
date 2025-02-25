@@ -4,3 +4,4 @@ This is the repository for the dataset "Multiple Human Interaction Understanding
 # Introduction
 MHIU is a dataset for the human interaction understanding task. Its videos capture multiple human interactions performed simultaneously by different human pairs. The data is recorded in RGB and depth format with 2 distinct views. The human bounding boxes, individual action labels, pairwise interaction labels, and tracking IDs are provided for all subjects in the middle frames of every three consecutive frames of each video. 
 
+![image alt](https://github.com/ais-lab/MHIU_Dataset/blob/85c37ec21a5d975181e954260f93107582944962/Picture1.png)
